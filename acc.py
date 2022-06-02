@@ -102,7 +102,6 @@ def threadit(password):
             print("Incorrect code")
 
         except ActionNotAllowed:
-            cx=input("\tchange vpn:")
             os.system("clear")
             
 
