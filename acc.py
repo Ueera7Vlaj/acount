@@ -1,4 +1,4 @@
-password="18652750"
+password="pagal0"
 import os
 import time
 import hmac
@@ -93,7 +93,7 @@ def threadit(password):
             print(link)
             codigo = captcha(link)
             print(codigo)
-            client.register(nickname="KingZero", email=email, password=password, verificationCode=codigo, deviceId=device)
+            client.register(nickname="Romeo", email=email, password=password, verificationCode=codigo, deviceId=device)
 
             log(client, email, password, device)
             contador += 1
