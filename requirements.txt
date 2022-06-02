@@ -1,0 +1,6 @@
+amino.fix -U
+secmail
+requests
+bs4
+flask
+pyshorteners
