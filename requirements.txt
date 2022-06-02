@@ -1,4 +1,4 @@
-amino.fix -U
+amino.fix
 secmail
 requests
 bs4
